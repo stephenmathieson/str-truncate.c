@@ -8,5 +8,5 @@
   "src": [
     "src/str-truncate.c",
     "src/str-truncate.h"
-  ],
+  ]
 }
