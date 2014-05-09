@@ -1,0 +1,12 @@
+{
+  "name": "str-truncate",
+  "version": "0.0.1",
+  "repo": "movesmyers/str-truncate.c",
+  "description": "Simple string truncation",
+  "keywords": [ "string", "truncate" ],
+  "license": "MIT",
+  "src": [
+    "src/str-truncate.c",
+    "src/str-truncate.h"
+  ],
+}
