@@ -1,6 +1,6 @@
 {
   "name": "str-truncate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repo": "movesmyers/str-truncate.c",
   "description": "Simple string truncation",
   "keywords": [ "string", "truncate" ],

@@ -1,4 +1,4 @@
-# truncate
+# str-truncate
 
 Simple string truncation
 
@@ -10,7 +10,7 @@ $ clib install movesmyers/str-truncate.c
 
 ## Usage
 
-```char *truncate(const char *string, int length)```
+```char *str_truncate(const char *string, int length)```
 
 ## License
 

@@ -2,7 +2,7 @@
 #include <string.h>
 #include "str-truncate.h"
 
-char *truncate(const char *string, int length)
+char *str_truncate(const char *string, int length)
 {
   if (length >= strlen(string)) return strdup(string);
   

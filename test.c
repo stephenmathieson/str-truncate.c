@@ -4,7 +4,7 @@
 
 int main (int argc, char const *argv[])
 {
-  char *str = truncate("really long sentence", 2);
+  char *str = str_truncate("really long sentence", 2);
   printf("this should only be two characters: %s\n", str);
   
   return EXIT_SUCCESS;
